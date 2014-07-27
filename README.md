@@ -1,9 +1,8 @@
 # PHP-Anagrams-Finder
 ===================
 
-# PHP script for returning all matched anagrams in a given file
+PHP script for returning all matched anagrams in a given file
 
-===================
 
 ## Author
 
